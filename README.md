@@ -46,7 +46,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This project does not currently have a license. If you plan to use or adapt this work, please contact the author for permissions or further guidance.
 
 ## Note
-This project is intended solely to showcase my work in Python and is not intended for use in any real-world application or production environment.
+This project is intended solely to showcase my work in Python and is not intended for use in any real-world application or production environment. All information has been changed, and no real-life examples are included.
 
 ---
 Feel free to explore, adapt, and share!
